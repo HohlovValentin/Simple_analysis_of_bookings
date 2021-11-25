@@ -1,1 +1,1 @@
-# Simple_analysis_of_bookings
+In this file I work with dataset of bookings of no-named hotelchain
